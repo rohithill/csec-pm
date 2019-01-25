@@ -1,2 +1,2 @@
 # csec-pm
-Programming talks/content content.
+Programming talks/meet content.
